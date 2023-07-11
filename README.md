@@ -39,9 +39,13 @@ Instale as dependências usando npm ou Yarn.
 ## Configuração
 
   • Antes de executar o aplicativo, é necessário configurar a API TMDB.
+  
   • Acesse o site da The Movie Database (TMDB) e crie uma conta gratuita, se você ainda não tiver uma.
+  
   • Após criar a conta, acesse TMDB API e solicite uma chave de API.
+  
   • Copie sua chave de API.
+  
   • No projeto, abra o arquivo Tmdb.js e cole sua chave de API na variável API_KEY.
 
 ## Exemplo
