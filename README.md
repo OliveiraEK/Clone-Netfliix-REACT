@@ -21,36 +21,42 @@ Siga as etapas abaixo para instalar as dependências do projeto:
 git clone https://github.com/OliveiraEK/Clone-Netfliix-REACT.git
 Navegue até o diretório do projeto.
 
+```
+
+```shell
 cd Clone-Netfliix-REACT
 Instale as dependências usando npm ou Yarn.
+```
 
+## Configuração:
 
-Configuração:
-Antes de executar o aplicativo, é necessário configurar a API TMDB.
+  • Antes de executar o aplicativo, é necessário configurar a API TMDB.
+  • Acesse o site da The Movie Database (TMDB) e crie uma conta gratuita, se você ainda não tiver uma.
+  • Após criar a conta, acesse TMDB API e solicite uma chave de API.
+  • Copie sua chave de API.
+  • No projeto, abra o arquivo Tmdb.js e cole sua chave de API na variável API_KEY.
 
-Acesse o site da The Movie Database (TMDB) e crie uma conta gratuita, se você ainda não tiver uma.
-
-Após criar a conta, acesse TMDB API e solicite uma chave de API.
-
-Copie sua chave de API.
-
-No projeto, abra o arquivo Tmdb.js e cole sua chave de API na variável API_KEY.
-
-Exemplo:
+## Exemplo:
+```shell
 const API_KEY = 'YOUR_API_KEY_HERE'
+```
 
-Uso:
+## Uso:
 Após a conclusão da instalação e configuração, você pode iniciar o aplicativo localmente usando os seguintes comandos:
 
-Com npm:
+## Com npm:
+```shell
 npm start
+```
 
-Com Yarn:
+## Com Yarn:
+```shell
 yarn start
+```
 
 Isso iniciará o aplicativo no modo de desenvolvimento. Abra http://localhost:3000 em seu navegador para visualizar a aplicação.
 
-Licença
+## Licença
 Este projeto é apenas para fins educacionais e todos os direitos são reservados à Netflix e ao The Movie Database.
 
 
