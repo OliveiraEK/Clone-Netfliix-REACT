@@ -27,9 +27,9 @@ Siga as etapas abaixo para instalar as dependências do projeto:
 
 ```shell
 git clone https://github.com/OliveiraEK/Clone-Netfliix-REACT.git
-Navegue até o diretório do projeto.
-
 ```
+
+Navegue até o diretório do projeto.
 
 ```shell
 cd Clone-Netfliix-REACT
