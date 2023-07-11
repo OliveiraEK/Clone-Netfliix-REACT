@@ -11,7 +11,7 @@ Antes de iniciar a aplicação, certifique-se de ter as seguintes ferramentas in
 - [Node.js](https://nodejs.org) (versão 12 ou superior)
 - [npm](https://www.npmjs.com) ou [Yarn](https://yarnpkg.com)
 
-##Demonstração
+## Demonstração
 
 ![image](https://github.com/OliveiraEK/Clone-Netfliix-REACT/assets/105504749/a0ad1988-902d-4e06-b82e-6f43a1f33527)
 
