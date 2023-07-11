@@ -1,4 +1,4 @@
-<h1 align="center">Clone-Netfliix-REACT</h1> 
+<h1 align="center">Netfliix Clone</h1> 
 
 <p align="center"><i>Este é um projeto de clone do Netflix desenvolvido usando React.js e a API TMDB. O objetivo deste projeto é recriar a interface do usuário do Netflix e exibir uma lista de filmes populares usando dados da API TMDB.</i></p>
 
